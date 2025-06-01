@@ -5,7 +5,7 @@
 #player #baseLeft{ width:93px; } 
 #player #baseRight{ width:145px;} 
 #player .button{  width:26px; }
-#player #play{ background:url(https://media.discordapp.net/attachments/718156205645758504/1144454339906240662/image.png); }
+#player #play{ background:url(https://i.postimg.cc/1Rrsb7qm/big-tile-thing.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
